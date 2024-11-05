@@ -1,9 +1,9 @@
 {
-  "name": "portfolio-eyejang",
+  "name": "finall",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Wanchai7.github.io/final-frontend-014-Wanchai/",
+  "homepage": "https://github.com/Wanchai7/final-frontend-014-Wanchai/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
