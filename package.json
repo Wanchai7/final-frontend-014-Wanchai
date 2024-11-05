@@ -2,6 +2,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/Wanchai7/final-frontend-014-Wanchai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
